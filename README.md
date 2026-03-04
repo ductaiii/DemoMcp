@@ -336,12 +336,13 @@ Không cần enterprise drama, chỉ cần chạy được, debug được, và 
 
 [SourceCode](https://github.com/ductaiii/DemoMcp)
 
+## Liên hệ với mình
+- Facebook: https://www.facebook.com/duc.tai.4869/
+- GitHub: https://github.com/ductaiii
+
 ##  Tài liệu tham khảo
 - https://modelcontextprotocol.io/docs/getting-started/intro
 - https://www.anthropic.com/news/model-context-protocol
 - https://www.alibabacloud.com/blog/frontline-practice-of-implementing-a-new-paradigm-of-ai-application-architecture-based-on-mcp_602144
 - https://www.dailydoseofds.com/tag/mcp/
 
-## Liên hệ
-- Facebook: https://www.facebook.com/ductaiii
--
